@@ -1,0 +1,38 @@
+*{
+	font-family: 'Roboto', sans-serif;
+	margin: 0px;
+	padding: 0px;
+}
+
+h1{
+	font-family: 'Lobster';
+	font-weight: normal;
+	font-size: 40px;
+	color: #8ab42e;
+}
+
+#div-h1{
+	padding: 0px 20px;
+	background: #e8e1ce;
+	display: inline-block;
+	transform: rotate(-3deg);
+	transition: 1s;
+}
+
+#div-h1:hover{
+	box-shadow: 0px 0px 20px #8ab42e;
+	transform: rotate(0deg);
+}
+
+body{
+	background-image: url('../print_texture.png');
+}
+
+main{
+	padding-top: 20px;
+}
+
+.img_container{ overflow: hidden; }
+
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+@import url('https://fonts.googleapis.com/css?family=Roboto');

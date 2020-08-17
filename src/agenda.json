@@ -1,0 +1,114 @@
+{
+	"actes": [
+		{
+			"id": 10,
+			"titol": "1r Sopar Popular",
+			"dia": "14/03/2020",
+			"hora": "21h",
+			"descripcio": "Porta el teu sopar i la teva beguda. Sense parlaments, xerrades ni mítings",
+			"lloc": "Plaça de les Tereses",
+			"thumbnail": "sopar_200314.jpg",
+			"icon": "fa fa-utensils",
+			"grups" : []
+		},
+		{
+			"id": 9,
+			"titol": "Marrinxa 2019",
+			"dia": "28/07/2019",
+			"hora": "22h",
+			"descripcio": "",
+			"lloc": "Passeig del Callao",
+			"thumbnail": "marrinxa_2019.jpg",
+			"icon": "fa fa-guitar",
+			"grups" : [0, 1, 3, 4]
+		},
+		{
+			"id": 8,
+			"titol": "Marrinxa 2018",
+			"dia": "28/07/2018",
+			"hora": "22h",
+			"descripcio": "Ominira + Clotildes + La Xana + DJ Hochi + DJ Lo Puto Cat",
+			"lloc": "Plaça de l'Ajuntament",
+			"thumbnail": "marrinxa_2018.jpg",
+			"icon": "fa fa-guitar",
+			"grups" : [8, 9, 10, 6, 3]
+		},
+		{
+			"id": 7,
+			"titol": "Marrinxa 2017",
+			"dia": "26/07/2017",
+			"hora": "22h",
+			"descripcio": "",
+			"lloc": "Plaça de l'Ajuntament",
+			"thumbnail": "marrinxa_2017.jpg",
+			"icon": "fa fa-guitar",
+			"grups" : [2, 5, 6, 7]
+		},
+		{
+			"id": 6,
+			"titol": "Marrinxa 2016",
+			"dia": "26/07/2016",
+			"hora": "22h",
+			"descripcio": "Pachawa Sound + Dalton Bang + DJ Hochi",
+			"lloc": "Plaça de l'Ajuntament",
+			"thumbnail": "marrinxa_2016.jpg",
+			"icon": "fa fa-guitar",
+			"grups" : [11, 12, 3]
+		},
+		{
+			"id": 5,
+			"titol": "Marrinxa 2013",
+			"dia": "26/07/2013",
+			"hora": "23h",
+			"descripcio": "",
+			"lloc": "Plaça de l'Ajuntament",
+			"thumbnail": "marrinxa_2013.jpg",
+			"icon": "fa fa-guitar",
+			"grups" : [21, 25, 24]
+		},
+		{
+			"id": 4,
+			"titol": "Marrinxa 2012",
+			"dia": "26/07/2012",
+			"hora": "23h",
+			"descripcio": "",
+			"lloc": "Plaça de l'Ajuntament",
+			"thumbnail": "marrinxa_2012.jpg",
+			"icon": "fa fa-guitar",
+			"grups" : [13, 14, 15, 16]
+		},
+		{
+			"id": 3,
+			"titol": "Marrinxa 2011",
+			"dia": "28/07/2011",
+			"hora": "23h",
+			"descripcio": "",
+			"lloc": "Plaça de l'Ajuntament",
+			"thumbnail": "marrinxa_2011.jpg",
+			"icon": "fa fa-guitar",
+			"grups" : [17, 18, 16]
+		},
+		{
+			"id": 2,
+			"titol": "Marrinxa 2010",
+			"dia": "28/07/2010",
+			"hora": "23h",
+			"descripcio": "",
+			"lloc": "Plaça de l'Ajuntament",
+			"thumbnail": "marrinxa_2010.gif",
+			"icon": "fa fa-guitar",
+			"grups" : [20, 19, 16]
+		},
+		{
+			"id": 1,
+			"titol": "Marrinxa 2009",
+			"dia": "26/07/2009",
+			"hora": "23h",
+			"descripcio": "",
+			"lloc": "Plaça de l'Ajuntament",
+			"thumbnail": "marrinxa_2009.jpg",
+			"icon": "fa fa-guitar",
+			"grups" : [21, 22, 23]
+		}
+	]
+}

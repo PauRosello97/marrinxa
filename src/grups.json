@@ -1,0 +1,212 @@
+{
+	"grups": [
+		{
+			"id": 0,
+			"nom": "Orquestra Mitjanit",
+			"descripcio": "Fan versions",
+			"estil": "Versions",
+			"thumbnail": "orquestra_mitjanit.jpg",
+			"video": "https://www.youtube.com/embed/bmNRNQEc9-g"
+		},
+		{
+			"id": 1,
+			"nom": "The Tyets",
+			"descripcio": "Grup jove del Maresme barreja el trap amb ritmes llatins, explora i juga amb els diferents estils i aconsegueix les melodies més enganxoses, com el seu hit, 'RRHH'.",
+			"estil": "Trapetón",
+			"thumbnail": "the_tyets.jpg",
+			"video": "https://www.youtube.com/embed/S_R2nZhxy80"
+		},
+		{
+			"id": 2,
+			"nom": "System Beat",
+			"descripcio": "Tres xiquets de Mataró que fan Electrònica",
+			"estil": "Electrònica",
+			"thumbnail": "system_beat.jpg",
+			"video": "https://www.youtube.com/embed/aspNAMF7N-Y"
+		},
+		{
+			"id": 3,
+			"nom": "DJ Hochi",
+			"descripcio": "Un DJ ben guai",
+			"estil": "PD Format obert",
+			"thumbnail": "hochi.jpg",
+			"video": "https://www.youtube.com/embed/flwVqaroyvo"
+		},
+		{
+			"id": 4,
+			"nom": "DJ Nonai",
+			"descripcio": "Nonai Sound és una DJ valenciana que porta animant sales i festivals des de 2016 amb ritmes de dancehall, cúmbia, música llatina i drum’n’bass. És la DJ oficial de Maluks i també DJ a la festa resident Comboi Party que es fa periodicament a la sala La Peligro conjuntament amb Dj Rule.Ha punxat en diferents festivals i concerts com el Rototom Sunsplash, Nit a la Mar, Feslloc entre d’altres.",
+			"estil": "PD Format obert",
+			"thumbnail": "nonai.jpg",
+			"video": "https://www.youtube.com/embed/MwaFTOTCeOc"
+		},
+		{
+			"id": 5,
+			"nom": "Los Ignorantes",
+			"descripcio": "Los Ignorantes és un grup mataroní format al 2007. El seu principal objectiu és fer gaudir al públic amb bon humor i música molt ballable amb el seu espectacle de Party-Show, combinant temes d'estils tant diferents com el Reggae, el Metal, l'Ska, el Rock'n'Roll, el Hip-Hop, el Punk, la Màquina, el Folk, la Rumba o la Patxanga.",
+			"estil": "Versions",
+			"thumbnail": "ignorantes.jpg",
+			"video": "https://www.youtube.com/embed/4gJrg1SvIFA"
+		},
+		{
+			"id": 6,
+			"nom": "Clotildes",
+			"descripcio": "Versions",
+			"estil": "Versions",
+			"thumbnail": "clotildes.jpg",
+			"video": "https://www.youtube.com/embed/QgMF1PD6C-0"
+		},
+		{
+			"id": 7,
+			"nom": "Kebab Kolektiv",
+			"descripcio": "DJS",
+			"estil": "PD Format obert",
+			"thumbnail": "kebab.jpg",
+			"video": ""
+		},
+		{
+			"id": 8,
+			"nom": "Ominira",
+			"descripcio": "",
+			"estil": "Dancehall",
+			"thumbnail": "ominira.jpg",
+			"video": "https://www.youtube.com/embed/q_89Uiqepq8"
+		},
+		{
+			"id": 9,
+			"nom": "Xana Blue",
+			"descripcio": "",
+			"estil": "Electrònica",
+			"thumbnail": "xana_blue.jpg",
+			"video": "https://www.youtube.com/embed/WfyJkRxf2fc"
+		},
+		{
+			"id": 10,
+			"nom": "Lo Puto Cat",
+			"descripcio": "",
+			"estil": "Electrònica",
+			"thumbnail": "lo_puto_cat.jpg",
+			"video": "https://www.youtube.com/embed/XUqx1wVwYo8"
+		},
+		{
+			"id": 11,
+			"nom": "Pachawa Sound",
+			"descripcio": "",
+			"estil": "Música urbana electrònica i reggae",
+			"thumbnail": "pachawa_sound.jpg",
+			"video": "https://www.youtube.com/embed/e7N24NomUjc"
+		},
+		{
+			"id": 12,
+			"nom": "Dalton Bang",
+			"descripcio": "",
+			"estil": "Versions",
+			"thumbnail": "dalton_bang.jpg",
+			"video": "https://www.youtube.com/embed/YtqnubCXXJQ"
+		},
+		{
+			"id": 13,
+			"nom": "Raska",
+			"descripcio": "",
+			"estil": "Ska-Reggae",
+			"thumbnail": "raska.jpg",
+			"video": "https://www.youtube.com/embed/RF-JNfoGbqo"
+		},
+		{
+			"id": 14,
+			"nom": "Mr Freak Ska",
+			"descripcio": "",
+			"estil": "Ska",
+			"thumbnail": "mr_freak_ska.jpg",
+			"video": "https://www.youtube.com/embed/w3njm1cvMnY"
+		},
+		{
+			"id": 15,
+			"nom": "High Times",
+			"descripcio": "",
+			"estil": "",
+			"thumbnail": "high_times.jpg",
+			"video": "https://www.youtube.com/embed/pmCOjNyEvuk"
+		},
+		{
+			"id": 16,
+			"nom": "PD Fotlifoc",
+			"descripcio": "",
+			"estil": "PD format obert",
+			"thumbnail": "fotlifoc.jpg",
+			"video": ""
+		},
+		{
+			"id": 17,
+			"nom": "Els Catarres",
+			"descripcio": "",
+			"estil": "Pop",
+			"thumbnail": "catarres.jpg",
+			"video": "https://www.youtube.com/embed/Z5LVw2abUlw"
+		},
+		{
+			"id": 18,
+			"nom": "Terratombats",
+			"descripcio": "",
+			"estil": "Ska",
+			"thumbnail": "terratombats.jpg",
+			"video": "https://www.youtube.com/embed/xJd9E20nHS4"
+		},
+		{
+			"id": 19,
+			"nom": "The Cabrians",
+			"descripcio": "",
+			"estil": "Ska",
+			"thumbnail": "the_cabrians.jpg",
+			"video": "https://www.youtube.com/embed/GJ2Yx89pT4s"
+		},
+		{
+			"id": 20,
+			"nom": "Aspencat",
+			"descripcio": "",
+			"estil": "Reggae Electrònica",
+			"thumbnail": "aspencat.jpg",
+			"video": "https://www.youtube.com/embed/0l10OvFwEik"
+		},
+		{
+			"id": 21,
+			"nom": "Ebri Knight",
+			"descripcio": "",
+			"estil": "Punk Folk",
+			"thumbnail": "ebri_knight.jpg",
+			"video": "https://www.youtube.com/embed/qmdiO_ElkAM"
+		},
+		{
+			"id": 22,
+			"nom": "Les Absentes",
+			"descripcio": "",
+			"estil": "Folk",
+			"thumbnail": "les_absentes.jpg",
+			"video": "https://www.youtube.com/embed/5Zi8KBzA3uo"
+		},
+		{
+			"id": 23,
+			"nom": "Dijous Paella",
+			"descripcio": "",
+			"estil": "Rumba",
+			"thumbnail": "dijous_paella.jpg",
+			"video": "https://www.youtube.com/embed/ZZA_xZ3WTGI"
+		},
+		{
+			"id": 24,
+			"nom": "Mandanga",
+			"descripcio": "",
+			"estil": "",
+			"thumbnail": "mandanga.jpg",
+			"video": "https://www.youtube.com/embed/2UVr3NTGOCQ"
+		},
+		{
+			"id": 25,
+			"nom": "Oques Grasses",
+			"descripcio": "",
+			"estil": "",
+			"thumbnail": "oques_grasses.png",
+			"video": "https://www.youtube.com/embed/mj1ycQOY77o"
+		}
+	]
+}
