@@ -5,20 +5,20 @@ module.exports = {
   entry: './src/main.js',
   output: {
     path: path.resolve(__dirname, './dist'),
-    publicPath: process.env.NODE_ENV === 'production'? '/dist/' : '/dist',
+    publicPath: process.env.NODE_ENV === 'production' ? '/dist/' : '/dist',
     filename: 'build.js'
   },
   module: {
     rules: [
-      
-    //Fins aquí
+
+      //Fins aquí
       {
         test: /\.css$/,
         use: [
           'vue-style-loader',
           'css-loader'
         ],
-      },      {
+      }, {
         test: /\.vue$/,
         loader: 'vue-loader',
         options: {
@@ -67,12 +67,6 @@ if (process.env.NODE_ENV === 'production') {
       'process.env': {
         NODE_ENV: '"production"',
         BASE_URL: JSON.stringify('/')
-      }
-    }),
-    new webpack.optimize.UglifyJsPlugin({
-      sourceMap: true,
-      compress: {
-        warnings: false
       }
     }),
     new webpack.LoaderOptionsPlugin({
