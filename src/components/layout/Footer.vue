@@ -1,7 +1,6 @@
 <template>
 	<footer>
 		<p>marrinxa@marrinxa.org</p>
-		<p id="dissenyador">Disseny web: <a href="https://paurosello.net">Pau Roselló</a></p>
 	</footer>
 </template>
 
