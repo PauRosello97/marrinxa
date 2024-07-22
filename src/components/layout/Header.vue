@@ -9,7 +9,7 @@
 			<b-collapse id="nav-collapse" is-nav>
 				<!-- Right aligned nav items -->
 				<b-navbar-nav id="nav-list" class="ml-auto">
-					<b-link class="banderola" to="/acte/9">Santes</b-link>
+					<b-link class="banderola" to="/acte/15">Santes 2024</b-link>
 					<b-link class="banderola" to="/marrinxa">L'associació</b-link>
 					<b-link class="banderola" to="/grups">Artistes</b-link>
 					<b-link class="banderola" to="/botiga">Botiga</b-link>

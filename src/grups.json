@@ -207,6 +207,54 @@
 			"estil": "",
 			"thumbnail": "oques_grasses.png",
 			"video": "https://www.youtube.com/embed/mj1ycQOY77o"
+		},
+		{
+			"id": 26,
+			"nom": "Shårky",
+			"descripcio": "La mataronina més polifacètica amb fusió d'electrònica, urbana i pop.",
+			"estil": "Electrònica, urbana i pop",
+			"thumbnail": "sharky.png",
+			"video": "https://www.youtube.com/embed/pSS7QOMiSEc"
+		},
+		{
+			"id": 27,
+			"nom": "Sotabosc",
+			"descripcio": "Sotabosc, un grup amb membres de diferents parts del país, però amb base al Vallès Oriental. Ens faran reflexionar sobre el capitalisme amb ritmes jamaicans.",
+			"estil": "Reggae-dub",
+			"thumbnail": "sotabosc.jpg",
+			"video": "https://www.youtube.com/embed/OtTVkyI6EYw"
+		},
+		{
+			"id": 28,
+			"nom": "Amygdala",
+			"descripcio": "Aleix, conegut artísticament com Amygdala, és un DJ i productor català que a l'últim any s'ha creat un gran buit a l'escena del techno. Amb una barreja entre hardtech i acid core, Amygdala ha conquerit l'oïda de milions de ravers, amb temes tan coneguts com “Ella Sabe” (1M a Spotify) o “Bombo” (0.5M a Spotify) a més se l'ha pogut veure a cartells de grans festivals, com el Tramunfest (Girona) o el Bass in the Park (Barcelona), i en sessions com Kream i No es Ruido.",
+			"estil": "Tek n' roll",
+			"thumbnail": "amygdala.jpg",
+			"video": "https://www.youtube.com/embed/-uZHBeYtii4"
+		},
+		{
+			"id": 29,
+			"nom": "PD Bingos",
+			"estil": "Fomat obert. Hits.",
+			"descripcio": "Els punxadiscos locals en tendència. La seva especialitat són els bingos musicals per cantar a ple pulmó i moure l'esquelet.",
+			"thumbnail": "pdbingos.jpg",
+			"video": ""
+		},
+		{
+			"id": 30,
+			"nom": "PD TARRAS",
+			"descripcio": "Les PD's més canyeres del Baix Montseny 🍑🍑🍑",
+			"estil": "PD obert",
+			"thumbnail": "pdtarras.png",
+			"video": ""
+		},
+		{
+			"id": 31,
+			"nom": "304 TOUR",
+			"descripcio": "Rap dur que parla de les realitats socials en què estem atrapats.Grup musical de Mataró. El seu nom fa referència al codi postal 08304 del barri on s’originen.",
+			"estil": "Rap dur",
+			"thumbnail": "304.png",
+			"video": "https://player.vimeo.com/video/814187670?h=77d02cc3e1&title=0&byline=0&portrait=0"
 		}
 	]
 }

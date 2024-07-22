@@ -1,6 +1,40 @@
 {
 	"actes": [
 		{
+			"id": 15,
+			"titol": "Marrinxa 2024",
+			"dia": "28/07/2024",
+			"hora": "22:30h",
+			"descripcio": "-",
+			"lloc": "Plaça Santa Anna",
+			"thumbnail": "marrinxa_2024.jpg",
+			"icon": "fa fa-guitar",
+			"grups": [
+				5,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31
+			]
+		},
+		{
+			"id": 13,
+			"titol": "Marrinxa 2022",
+			"dia": "27/07/2022",
+			"hora": "1h després dels focs artificials",
+			"descripcio": "",
+			"lloc": "Passeig Marítim. Escenari Espigó (al costat del Centre Natació Mataró)",
+			"thumbnail": "marrinxa_2022.png",
+			"icon": "fa fa-guitar",
+			"grups": [
+				0,
+				31,
+				30
+			]
+		},
+		{
 			"id": 10,
 			"titol": "1r Sopar Popular",
 			"dia": "14/03/2020",
@@ -9,7 +43,7 @@
 			"lloc": "Plaça de les Tereses",
 			"thumbnail": "sopar_200314.jpg",
 			"icon": "fa fa-utensils",
-			"grups" : []
+			"grups": []
 		},
 		{
 			"id": 9,
@@ -20,7 +54,12 @@
 			"lloc": "Passeig del Callao",
 			"thumbnail": "marrinxa_2019.jpg",
 			"icon": "fa fa-guitar",
-			"grups" : [0, 1, 3, 4]
+			"grups": [
+				0,
+				1,
+				3,
+				4
+			]
 		},
 		{
 			"id": 8,
@@ -31,7 +70,13 @@
 			"lloc": "Plaça de l'Ajuntament",
 			"thumbnail": "marrinxa_2018.jpg",
 			"icon": "fa fa-guitar",
-			"grups" : [8, 9, 10, 6, 3]
+			"grups": [
+				8,
+				9,
+				10,
+				6,
+				3
+			]
 		},
 		{
 			"id": 7,
@@ -42,7 +87,12 @@
 			"lloc": "Plaça de l'Ajuntament",
 			"thumbnail": "marrinxa_2017.jpg",
 			"icon": "fa fa-guitar",
-			"grups" : [2, 5, 6, 7]
+			"grups": [
+				2,
+				5,
+				6,
+				7
+			]
 		},
 		{
 			"id": 6,
@@ -53,7 +103,11 @@
 			"lloc": "Plaça de l'Ajuntament",
 			"thumbnail": "marrinxa_2016.jpg",
 			"icon": "fa fa-guitar",
-			"grups" : [11, 12, 3]
+			"grups": [
+				11,
+				12,
+				3
+			]
 		},
 		{
 			"id": 5,
@@ -64,7 +118,11 @@
 			"lloc": "Plaça de l'Ajuntament",
 			"thumbnail": "marrinxa_2013.jpg",
 			"icon": "fa fa-guitar",
-			"grups" : [21, 25, 24]
+			"grups": [
+				21,
+				25,
+				24
+			]
 		},
 		{
 			"id": 4,
@@ -75,7 +133,12 @@
 			"lloc": "Plaça de l'Ajuntament",
 			"thumbnail": "marrinxa_2012.jpg",
 			"icon": "fa fa-guitar",
-			"grups" : [13, 14, 15, 16]
+			"grups": [
+				13,
+				14,
+				15,
+				16
+			]
 		},
 		{
 			"id": 3,
@@ -86,7 +149,11 @@
 			"lloc": "Plaça de l'Ajuntament",
 			"thumbnail": "marrinxa_2011.jpg",
 			"icon": "fa fa-guitar",
-			"grups" : [17, 18, 16]
+			"grups": [
+				17,
+				18,
+				16
+			]
 		},
 		{
 			"id": 2,
@@ -97,7 +164,11 @@
 			"lloc": "Plaça de l'Ajuntament",
 			"thumbnail": "marrinxa_2010.gif",
 			"icon": "fa fa-guitar",
-			"grups" : [20, 19, 16]
+			"grups": [
+				20,
+				19,
+				16
+			]
 		},
 		{
 			"id": 1,
@@ -108,7 +179,11 @@
 			"lloc": "Plaça de l'Ajuntament",
 			"thumbnail": "marrinxa_2009.jpg",
 			"icon": "fa fa-guitar",
-			"grups" : [21, 22, 23]
+			"grups": [
+				21,
+				22,
+				23
+			]
 		}
 	]
 }
